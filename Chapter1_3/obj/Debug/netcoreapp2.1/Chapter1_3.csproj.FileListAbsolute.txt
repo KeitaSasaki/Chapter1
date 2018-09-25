@@ -1,0 +1,11 @@
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\bin\Debug\netcoreapp2.1\Chapter1_3.deps.json
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\bin\Debug\netcoreapp2.1\Chapter1_3.runtimeconfig.json
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\bin\Debug\netcoreapp2.1\Chapter1_3.runtimeconfig.dev.json
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\bin\Debug\netcoreapp2.1\Chapter1_3.dll
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\bin\Debug\netcoreapp2.1\Chapter1_3.pdb
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\obj\Debug\netcoreapp2.1\Chapter1_3.csprojAssemblyReference.cache
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\obj\Debug\netcoreapp2.1\Chapter1_3.csproj.CoreCompileInputs.cache
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\obj\Debug\netcoreapp2.1\Chapter1_3.AssemblyInfoInputs.cache
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\obj\Debug\netcoreapp2.1\Chapter1_3.AssemblyInfo.cs
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\obj\Debug\netcoreapp2.1\Chapter1_3.dll
+C:\Users\touch\source\repos\Chapter1\Chapter1_3\obj\Debug\netcoreapp2.1\Chapter1_3.pdb

@@ -1,0 +1,7 @@
+C:\Users\touch\source\repos\Chapter1\PropertyTest\obj\Debug\PropertyTest.csproj.CoreCompileInputs.cache
+C:\Users\touch\source\repos\Chapter1\PropertyTest\bin\Debug\PropertyTest.exe.config
+C:\Users\touch\source\repos\Chapter1\PropertyTest\bin\Debug\PropertyTest.exe
+C:\Users\touch\source\repos\Chapter1\PropertyTest\bin\Debug\PropertyTest.pdb
+C:\Users\touch\source\repos\Chapter1\PropertyTest\obj\Debug\PropertyTest.exe
+C:\Users\touch\source\repos\Chapter1\PropertyTest\obj\Debug\PropertyTest.pdb
+C:\Users\touch\source\repos\Chapter1\PropertyTest\obj\Debug\PropertyTest.csprojAssemblyReference.cache
