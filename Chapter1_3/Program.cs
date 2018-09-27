@@ -6,7 +6,7 @@ namespace Chapter1_3 //1.6
     {
         static void Main(string[] args)
         {
-            Employee     employee = new Employee
+            Employee employee = new Employee
             {
                 Id = 100,
                 Name = "山田太郎",
@@ -14,6 +14,16 @@ namespace Chapter1_3 //1.6
                 DivisionName = "第一営業課",
             };
             Console.WriteLine("{0}({1})は、{2}に所属しています。",employee.Name,employee.GetAge(),employee.DivisionName);
+
+            Student student = new Student //追加問題
+            {
+                Name = "山田次郎",
+                Birthday = new DateTime(1997, 08, 28),
+                Grade = 4,
+                Classnumber = "A",
+
+            };
+            Console.WriteLine("名前:{0}({1})は、{2}年{3}組です",student.Name,student.GetAge(),student.Grade,student.Classnumber);
             Action keep = () => Console.ReadLine(); Console.ReadKey();
             keep();
         }
@@ -37,5 +47,11 @@ namespace Chapter1_3 //1.6
     {
         public int Id { get; set; }
         public string DivisionName { get; set; }
+    }
+
+    public class Student : Person   //追加問題
+    {
+        public int Grade { get; set; }
+        public string Classnumber { get; set; }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\touch\source\repos\Chapter1\Chapter1_1\bin\Debug\netcoreapp2.1\Chapter1_1.deps.json
+C:\Users\touch\source\repos\Chapter1\Chapter1_1\bin\Debug\netcoreapp2.1\Chapter1_1.runtimeconfig.json
+C:\Users\touch\source\repos\Chapter1\Chapter1_1\bin\Debug\netcoreapp2.1\Chapter1_1.runtimeconfig.dev.json
+C:\Users\touch\source\repos\Chapter1\Chapter1_1\bin\Debug\netcoreapp2.1\Chapter1_1.dll
+C:\Users\touch\source\repos\Chapter1\Chapter1_1\bin\Debug\netcoreapp2.1\Chapter1_1.pdb
+C:\Users\touch\source\repos\Chapter1\Chapter1_1\obj\Debug\netcoreapp2.1\Chapter1_1.csproj.CoreCompileInputs.cache
+C:\Users\touch\source\repos\Chapter1\Chapter1_1\obj\Debug\netcoreapp2.1\Chapter1_1.AssemblyInfoInputs.cache
+C:\Users\touch\source\repos\Chapter1\Chapter1_1\obj\Debug\netcoreapp2.1\Chapter1_1.AssemblyInfo.cs
+C:\Users\touch\source\repos\Chapter1\Chapter1_1\obj\Debug\netcoreapp2.1\Chapter1_1.dll
+C:\Users\touch\source\repos\Chapter1\Chapter1_1\obj\Debug\netcoreapp2.1\Chapter1_1.pdb

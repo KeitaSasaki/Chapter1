@@ -1,7 +1,0 @@
-C:\Users\touch\source\repos\Chapter1\Chapter1_!\obj\Debug\Chapter1_1.csprojAssemblyReference.cache
-C:\Users\touch\source\repos\Chapter1\Chapter1_!\obj\Debug\Chapter1_1.csproj.CoreCompileInputs.cache
-C:\Users\touch\source\repos\Chapter1\Chapter1_!\bin\Debug\Chapter1_!.exe.config
-C:\Users\touch\source\repos\Chapter1\Chapter1_!\bin\Debug\Chapter1_!.exe
-C:\Users\touch\source\repos\Chapter1\Chapter1_!\bin\Debug\Chapter1_!.pdb
-C:\Users\touch\source\repos\Chapter1\Chapter1_!\obj\Debug\Chapter1_!.exe
-C:\Users\touch\source\repos\Chapter1\Chapter1_!\obj\Debug\Chapter1_!.pdb
